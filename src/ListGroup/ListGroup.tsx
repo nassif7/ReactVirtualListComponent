@@ -21,9 +21,9 @@ const ListGroup: React.FC<ListGroupItemProps> = ({
   return (
     <div
       ref={parentRef}
-      className="List"
+      className=""
       style={{
-        height: `200px`,
+        height: `199px`,
         overflow: "auto"
       }}
     >
